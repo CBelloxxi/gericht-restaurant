@@ -90,7 +90,7 @@
 }
 
 .app__navbar-smallscreen_links li {
-  margin: 2rem;
+  margin: 5rem;
   cursor: pointer;
   color: var(--color-golden);
   font-size: 2rem;
@@ -117,7 +117,6 @@
     display: flex;
   }
 }
-
 
 @media screen and (max-width: 650px) {
   .app__navbar{
