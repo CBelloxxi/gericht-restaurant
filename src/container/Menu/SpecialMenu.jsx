@@ -8,7 +8,7 @@ const SpecialMenu = () => (
     <div className='app__specialMenu-title'>
       <SubHeading title="" />
     </div>
-    SpecialMenu
+    SpecialMenu Subsectoin
   </div>
 );
 
