@@ -1,6 +1,6 @@
 <h1> Modern Gericht Restaurant Landing Page </h1>
 
-![Gericht Restaurant Gif] (src/assets/Gericht.gif)
+![Gericht Restaurant Gif](https://github.com/CBelloxxi/gericht-restaurant/blob/main/src/assets/Gericht.gif)
 
 <p> This is the Gericht Restaurant Landing Page built with a Modern UI/UX using React JS. It encompasses all modern UX Practices, follows a stringent and well organised File Structure and uses React Functional components to create a reusable SubHeading component, which has been used multiple times in the project. It also uses the React-Icons Framework, setPlayVideo for handling the logic and restaurant video playback, onClick Handling Events for the logic to create a more interactive site by making the Instagram site feed scrollable. Netlify has also been used for free hosting. </p>
 
